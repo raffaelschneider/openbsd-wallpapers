@@ -80,6 +80,19 @@ Welcome to the OpenBSD wallpapers repository! In this repository, you'll find a 
 ![openBSD wall dalle3 vcxa.png](dall-e3/openBSD_wall_dalle3_vcxa.png)
 ![openBSD wall dalle3 vcxv.png](dall-e3/openBSD_wall_dalle3_vcxv.png)
 ![openBSD wall dalle3 vcxx.png](dall-e3/openBSD_wall_dalle3_vcxx.png)
+![openBSD wall dalle3 awqw.png](dall-e3/openBSD_wall_dalle3_awqw.png)
+![openBSD wall dalle3 ereq.png](dall-e3/openBSD_wall_dalle3_ereq.png)
+![openBSD wall dalle3 erte.png](dall-e3/openBSD_wall_dalle3_erte.png)
+![openBSD wall dalle3 fdqa.png](dall-e3/openBSD_wall_dalle3_fdqa.png)
+![openBSD wall dalle3 fdsw.png](dall-e3/openBSD_wall_dalle3_fdsw.png)
+![openBSD wall dalle3 ffwe.png](dall-e3/openBSD_wall_dalle3_ffwe.png)
+![openBSD wall dalle3 frkr.png](dall-e3/openBSD_wall_dalle3_frkr.png)
+![openBSD wall dalle3 ljkh.png](dall-e3/openBSD_wall_dalle3_ljkh.png)
+![openBSD wall dalle3 oklp.png](dall-e3/openBSD_wall_dalle3_oklp.png)
+![openBSD wall dalle3 rerq.png](dall-e3/openBSD_wall_dalle3_rerq.png)
+![openBSD wall dalle3 rfdw.png](dall-e3/openBSD_wall_dalle3_rfdw.png)
+![openBSD wall dalle3 tetf.png](dall-e3/openBSD_wall_dalle3_tetf.png)
+![openBSD wall dalle3 wksf.png](dall-e3/openBSD_wall_dalle3_wksf.png)
 
 ## Usage
 
