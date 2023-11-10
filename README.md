@@ -118,5 +118,3 @@ If you have any questions, suggestions, or would like to contribute your own Ope
 
 Happy OpenBSD wallpapering!
 
-![openBSD sticker dalle3 didd.png](dall-e3/openBSD_sticker_dalle3_didd.png)
-
