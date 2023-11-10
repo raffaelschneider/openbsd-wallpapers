@@ -56,7 +56,15 @@ Welcome to the OpenBSD wallpapers repository! In this repository, you'll find a 
 ![openBSD wall dalle3 supu.png](dall-e3/openBSD_wall_dalle3_supu.png)
 ![openBSD wall dalle3 wett.png](dall-e3/openBSD_wall_dalle3_wett.png)
 ![openBSD wall dalle3 will.png](dall-e3/openBSD_wall_dalle3_will.png)
-
+![openBSD wall dalle3 asdk.png](dall-e3/openBSD_wall_dalle3_asdk.png)
+![openBSD wall dalle3 czxc.png](dall-e3/openBSD_wall_dalle3_czxc.png)
+![openBSD wall dalle3 fdsf.png](dall-e3/openBSD_wall_dalle3_fdsf.png)
+![openBSD wall dalle3 refs.png](dall-e3/openBSD_wall_dalle3_refs.png)
+![openBSD wall dalle3 rerd.png](dall-e3/openBSD_wall_dalle3_rerd.png)
+![openBSD wall dalle3 rewf.png](dall-e3/openBSD_wall_dalle3_rewf.png)
+![openBSD wall dalle3 tytq.png](dall-e3/openBSD_wall_dalle3_tytq.png)
+![openBSD wall dalle3 wdod.png](dall-e3/openBSD_wall_dalle3_wdod.png)
+![openBSD wall dalle3 zsdw.png](dall-e3/openBSD_wall_dalle3_zsdw.png)
 
 ## Usage
 
