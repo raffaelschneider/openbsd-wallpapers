@@ -83,10 +83,8 @@ To use these wallpapers on your OpenBSD system, simply download the ones you lik
 3. Run the following command to clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/raffaelschneider/awesome-openbsd-desktop
    ```
-
-   Replace `yourusername` with your GitHub username and `your-repo` with the name of your repository.
 
 ## Setting Wallpapers with `feh` in Xorg
 
@@ -117,6 +115,10 @@ To use these wallpapers on your OpenBSD system, simply download the ones you lik
 Note: You can further customize the appearance of your wallpaper using additional `feh` options. Refer to the `feh` documentation for more advanced configuration options if needed.
 
 That's it! You've successfully downloaded the wallpapers from the repository and set one of them as your background using `feh` in your Xorg environment. Enjoy your new OpenBSD desktop wallpaper!
+
+## Awesome
+
+➡️ If you want more of OpenBSD, I'm also hosting a [Awesome OpenBSD Desktop](https://github.com/raffaelschneider/awesome-openbsd-desktop) list here in Github.
 
 ## License
 
