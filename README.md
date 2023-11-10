@@ -110,6 +110,10 @@ Note: You can further customize the appearance of your wallpaper using additiona
 
 That's it! You've successfully downloaded the wallpapers from the repository and set one of them as your background using `feh` in your Xorg environment. Enjoy your new OpenBSD desktop wallpaper!
 
+## Awesome
+
+➡️ If you want more of OpenBSD, I'm also hosting a [Awesome OpenBSD Desktop](https://github.com/raffaelschneider/awesome-openbsd-desktop) list here in Github.
+
 ## License
 
 This repository is open-source, and the wallpapers are provided under the terms of the [LICENSE](LICENSE) file. Please review the license for usage details.
